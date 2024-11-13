@@ -71,8 +71,3 @@ The server will start on `http://localhost:5000` or another specified port.
 
 - **React**: Frontend library
 - **Socket.IO**: Real-time communication between client and server
-- **PDF.js**: PDF rendering on the client
-
-## License
-
-MIT License
